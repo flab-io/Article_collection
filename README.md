@@ -1,1 +1,3 @@
-# Article_collection
+# Article collection
+
+A group of articles to share 
